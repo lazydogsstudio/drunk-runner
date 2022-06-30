@@ -1,0 +1,34 @@
+{
+    "name": "PlayerSwapMove",
+    "maps": [
+        {
+            "name": "SwapMove",
+            "id": "32764f7f-1731-4298-9aa2-b515ddaa9085",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "8eb9fc5b-e22e-46c9-9131-32ab20ba66ad",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e053d6ea-2972-4734-b89a-f83ab1cd6a44",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
